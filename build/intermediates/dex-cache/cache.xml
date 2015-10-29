@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\dhanil\AndroidStudioProjects\Project0_Dona\app\build\intermediates\exploded-aar\com.android.support\design\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="C:\Users\dhanil\AndroidStudioProjects\Project0_Dona\app\build\intermediates\pre-dexed\release\classes-6e4950f04cd5f4dc22b0da29add40dd3593e341a.jar" />
+    </item>
+    <item
+        jar="C:\Users\dhanil\AndroidStudioProjects\Project0_Dona\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\dhanil\AndroidStudioProjects\Project0_Dona\app\build\intermediates\pre-dexed\release\classes-0bec06a6e256e4cea5cdbfdb21fc68b73fe4be97.jar" />
+    </item>
+    <item
+        jar="C:\Users\dhanil\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\dhanil\AndroidStudioProjects\Project0_Dona\app\build\intermediates\pre-dexed\release\support-annotations-23.0.1-f794912f189e1b40ab333486b441da1b68651951.jar" />
+    </item>
+    <item
+        jar="C:\Users\dhanil\AndroidStudioProjects\Project0_Dona\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\dhanil\AndroidStudioProjects\Project0_Dona\app\build\intermediates\pre-dexed\release\internal_impl-23.0.1-8f7e63b67dc67f55cc8b76f4dadc1c5849e2ae4f.jar" />
+    </item>
+    <item
+        jar="C:\Users\dhanil\AndroidStudioProjects\Project0_Dona\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\dhanil\AndroidStudioProjects\Project0_Dona\app\build\intermediates\pre-dexed\release\classes-1e09d9056e3dd0a2835726286e607c0ad67ebcfb.jar" />
+    </item>
+
+</items>
